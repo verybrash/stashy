@@ -4,6 +4,8 @@
 
 Stashy is the easiest way to invest your hard earned time into the meme economy. Kindly provided to the world by Terry Brashaw.
 
+[**Check it out!**](https://stashy-verybrash.vercel.app/)
+
 ## Running
 
 ```terminal
